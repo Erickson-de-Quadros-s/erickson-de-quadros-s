@@ -48,7 +48,7 @@
         <img align="center" alt="erickson-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
         <img align="center" alt="erickson-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
     </div>
-</div><br>
+</div><br><hr>
 
 
 ### Social Media:
