@@ -11,7 +11,7 @@
 - ⚡ Fun fact: ...
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Erickson-de-Quadros-s&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=Erickson-de-Quadros-s&show_icons=true&theme=dark&token=GH_TOKEN"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -21,10 +21,25 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Erickson-de-Quadros-s&show_icons=true" />
 </picture>
 
-<br>
+<div style="display: flex; justify-content: space-around; background-color: #f0f0f0; padding: 10px;">
+    <div>
+        <img align="center" alt="erickson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" alt="erickson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+        <img align="center" alt="erickson-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+        <img align="center" alt="erickson-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <img align="center" alt="erickson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+    </div>
+    <div>
+        <img align="center" alt="erickson-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+        <img align="center" alt="erickson-SQLServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+    </div>
+</div><br>
+
+  
+
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-de-Quadros-s&layout=compact&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickson-de-Quadros-s&layout=compact&theme=dark&token=GH_TOKEN"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -33,4 +48,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Erickson-de-Quadros-s&show_icons=true" />
 </picture>
+
 
